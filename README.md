@@ -50,14 +50,6 @@
    - Install `gnu-sed`
     ```
     brew install gnu-sed
-    ``` 
-   - (From Terminal) Open bash profile and add the following line to it.
-    ```
-    alias sed='gsed'
-    ``` 
-   - (From Terminal) Run the following command
-    ```
-    source .bash_profile
     ```
 ### (Everytime) Creating a new podcast
 
